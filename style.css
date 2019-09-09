@@ -1,0 +1,28 @@
+.text{
+	display: block;
+	width: 300px;
+	border-radius: 5px;
+}
+label{display: block;}
+
+.lijst{ margin-bottom: 25px;
+	display: block;
+}
+
+.voetbal{margin-left: 0px}
+
+.checkbox {
+    margin: .4rem;
+}
+
+textarea{
+	margin-bottom: 25px;
+}
+
+textarea{
+	border-width: 5px;
+	border-color: red;
+}
+textarea:focus{
+	border-color: green
+}
